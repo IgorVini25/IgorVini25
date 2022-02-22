@@ -7,7 +7,7 @@
 </div>
 <br>
   
-- 🌱 Estuding Typescript and NodeJS
+- 🌱 Estuding React
 - 📫 Email: igvinps2006@gmail.com
 
 <br>
