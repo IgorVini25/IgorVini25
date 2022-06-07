@@ -2,12 +2,12 @@
 
 ### Hey, i'm Igor Vinicius
 ##### I'm a Full stack Jr. Dev
-##### I have 16 years old
+##### I'm 16 years old
 
 </div>
 <br>
   
-- 🌱 Estuding React
+- 🌱 Estuding React and Prisma
 - 📫 Email: igvinps2006@gmail.com
 
 <br>
