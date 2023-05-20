@@ -2,7 +2,7 @@
 
 ### Hey, i'm Igor Vinicius
 ##### I'm a Full stack Jr. Dev
-##### I'm 16 years old
+##### I'm 17 years old
 
 </div>
 <br>
