@@ -7,7 +7,7 @@
 </div>
 <br>
   
-- 🌱 Estuding React and Prisma
+- 🌱 Estuding React and React Native(soon)
 - 📫 Email: igvinps2006@gmail.com
 
 <br>
