@@ -13,7 +13,6 @@
 <br>
 <div align="center">
   <a href="https://github.com/igorvini25">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorVini25&show_icons=true&theme=radical&include_all_commits=true&title_color=fff&text_color=fff&border_color=9745f5&icon_color=9745f5"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorvini25&layout=compact&langs_count=7&theme=radical&title_color=fff&text_color=fff&border_color=9745f5"/>
   </a>
 </div>
