@@ -37,7 +37,7 @@ Tenho 20 anos e atuo como **Desenvolvedor de Software** na Prefeitura de Francis
 
 <div align="center">
   <a href="https://github.com/igorvini25">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorvini25&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub de igorvini25"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorvini25&show_icons=true&theme=radical&locale=pt-br&include_all_commits=true" alt="Estatísticas do GitHub de igorvini25"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorvini25&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas"/>
   </a>
 </div>
