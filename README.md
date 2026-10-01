@@ -2,7 +2,7 @@
 
 # Hi, I'm Igor 👋
 
-**Full-stack developer** building production systems for local government and small businesses — backend-focused, with growing experience in real-time systems and LLM/agent integration.
+**Full-stack developer** building production systems for local government and small businesses — backend-focused, using LLMs and AI coding agents daily to design, build and ship faster.
 
 [![Email](https://img.shields.io/badge/Email-igvinps2006%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:igvinps2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor%20Vinicius-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-vinicius-845b68217/)
@@ -13,7 +13,7 @@
 <br>
 
 - 🏛️ Currently building and maintaining systems for a **Brazilian municipal government** (HR management, project/task tracking, library systems)
-- 🤖 Hands-on production experience with **LLM-based systems**: prompt engineering, agent orchestration, evals
+- 🤖 **AI-assisted development**: I use LLMs and coding agents (Claude Code) as part of my daily workflow — prompt engineering, agent orchestration and review of generated code — to deliver complete systems end to end
 - 🌎 Open to remote and freelance work — comfortable with **async, deliverable-driven** workflows
 
 <br>
